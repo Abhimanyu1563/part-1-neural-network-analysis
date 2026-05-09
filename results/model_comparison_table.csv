@@ -1,2 +1,1 @@
-results = pd.DataFrame({...})
-results.to_csv("results/model_comparison_table.csv", index=False)
+plt.savefig("results/model_comparison_table.png")
