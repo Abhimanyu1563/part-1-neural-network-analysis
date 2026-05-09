@@ -1,1 +1,0 @@
-plt.savefig("results/model_comparison_table.png")
